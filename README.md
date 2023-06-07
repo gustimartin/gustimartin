@@ -3,14 +3,22 @@
 <!--
 **gustimartin/gustimartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+hola soy gustavo martin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Sobre Mi Soy un Full Stack Developer apasionado por la tecnología, con deseos de superación y motivación para aportar mis conocimientos en nuevos proyectos. siempre buscando un nuevo reto y formar parte de un equipo!
+
+🛠 Habilidades
+
+🎨 Frontend javascript css3 react tailwind redux
+
+📦 Backend Nodejs Express
+
+🗃 DataBase Sequelize PostgreSQL MongoDB
+
+Otros Scrum Github Git
+
+🔎 Contacto
+
+LinkdIn:https://www.linkedin.com/in/gustavo-martin-b64310263/
+
+Mail: gustavoemartin1991@gmail.com
