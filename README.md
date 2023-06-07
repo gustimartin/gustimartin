@@ -1,10 +1,10 @@
 
 
-### Hola 👋, my name is Gustavo
-#### I am fullstack developer
+### Hola 👋, mi nombre es Gustavo Martin
+#### soy fullstack developer
 ![I am fullstack developer](https://media.licdn.com/dms/image/D4E16AQG_DwvJVBGMyQ/profile-displaybackgroundimage-shrink_350_1400/0/1674490277651?e=1691625600&v=beta&t=AQTXkpiXD9GNdOQEVO52oJ8eE61X6Xn9A6lwEzEepvE)
 
-Full Stack Developer apasionado por la tecnología, con deseos de superación y motivación para aportar mis conocimientos en nuevos proyectos. siempre buscando un nuevo reto y formar parte de un equipo!
+Fullstack Developer apasionado por la tecnología, con deseos de superación y motivación para aportar mis conocimientos en nuevos proyectos. siempre buscando un nuevo reto y formar parte de un equipo!
 
 Habilidades: MONGODB || MySQL || EXPRESS || NODE JS || REDUX || REACT JS || TAILWIND CSS || JAVASCRIPT || HTML
 
