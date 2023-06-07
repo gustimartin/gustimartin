@@ -16,7 +16,7 @@ Habilidades: MONGODB || MySQL || EXPRESS || NODE JS || REDUX || REACT JS || TAIL
 
 🔎 Contacto:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/gustimartin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50' width="50">](https://www.linkedin.com/in/https://www.linkedin.com/in/gustavo-martin-b64310263//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/gustimartin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50' width="50">](https://www.linkedin.com/in/gustavo-martin-b64310263/)  
 
 gmail: gustavoemartin1991@gmail.com
 
